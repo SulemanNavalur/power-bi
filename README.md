@@ -15,13 +15,4 @@ It is part of the Microsoft Power Platform.
 * Power Pivot.
 * Power Query.
  
-### Dataset 
 
-Dataset used for building the Reports and Dashboards is an sample Employee Data.
-The data includes different employee details, work, location etc.
-
-### Reports
-
-1. Employee Report-1.
-2. Employee Report-2.
-3. Team Leader Report.
